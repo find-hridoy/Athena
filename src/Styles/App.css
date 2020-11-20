@@ -8,6 +8,9 @@
 @import "../Styles/Service.css";
 @import "../Styles/RunningProject.css";
 @import "../Styles/Achievements.css";
+@import "../Styles/PricingTable.css";
+@import "../Styles/Contact.css";
+@import "../Styles/Footer.css";
 /* Color Variables */
 :root {
   --button: linear-gradient(to left, #0ebbdc, #1ddcb5);
