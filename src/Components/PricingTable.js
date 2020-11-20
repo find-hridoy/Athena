@@ -10,7 +10,7 @@ const PricingTable = () => {
                     </div>
                 </div>
                 <div className="row py-1">
-                    <div className="col-md-4">
+                    <div className="col-md-4 mb-3">
                         <div className="pricing_table text-center bg-white mx-2 p-5 shadow">
                             <div className="pricing_header mb-3 pb-1">
                                 <h1 className="mb-0">$199</h1>
@@ -32,7 +32,7 @@ const PricingTable = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-4 mb-3">
                         <div className="pricing_table text-center bg-white mx-2 p-5 shadow">
                             <div className="pricing_header mb-3 pb-1">
                                 <h1 className="mb-0">$399</h1>
@@ -54,7 +54,7 @@ const PricingTable = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-4 mb-3">
                         <div className="pricing_table text-center bg-white mx-2 p-5 shadow">
                             <div className="pricing_header mb-3 pb-1">
                                 <h1 className="mb-0">$599</h1>

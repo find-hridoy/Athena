@@ -1,4 +1,5 @@
 .service-area {
+  overflow: none;
   background: url(../Images/bg-image/service.png);
   background-repeat: no-repeat;
   background-size: cover;

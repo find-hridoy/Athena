@@ -14,7 +14,7 @@ const Service = () => {
           easy. Simplicity is our Strength.
         </p>
         <div className="row">
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-12">
             <div className="card pt-5 pb-4 px-4 border-0 card-hover">
               <div className="d-flex justify-content-center">
                 <img className="service-img" src={service1} alt="service" />
@@ -26,7 +26,7 @@ const Service = () => {
               </p>
             </div>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-12">
             <div className="card pt-5 pb-4 px-4 border-0 card-hover">
               <div className="d-flex justify-content-center">
                 <img className="service-img" src={service2} alt="service" />
@@ -38,7 +38,7 @@ const Service = () => {
               </p>
             </div>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-12">
             <div className="card pt-5 pb-4 px-4 border-0 card-hover">
               <div className="d-flex justify-content-center">
                 <img className="service-img" src={service3} alt="service" />
