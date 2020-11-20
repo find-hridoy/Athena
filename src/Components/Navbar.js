@@ -63,6 +63,16 @@ const Navbar = () => {
                   duration={1000}
                   to="achievement"
                 >
+                  Achievement
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link mr-3"
+                  smooth={true}
+                  duration={1000}
+                  to="pricing"
+                >
                   Pricing
                 </Link>
               </li>
@@ -74,7 +84,11 @@ const Navbar = () => {
             </ul>
             <div className="my-2 my-lg-0 text-right">
               <button className="btn common-btn" type="submit">
-                Contact us
+                <Link
+                  smooth={true}
+                  duration={1000} to="contact">
+                   Contact us
+                </Link>
               </button>
             </div>
           </div>
