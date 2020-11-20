@@ -28,23 +28,23 @@ const Footer = () => {
                     <div className="col-md-7">
                         <div className="container">
                             <div className="row">
-                                <div className="col-md-4 footer_right">
+                                <div className="col-md-4 mt-3 footer_right d-flex justify-content-center">
                                     <ul>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Features</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Enterprise</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Pricing</a></li>
                                     </ul>
                                 </div>
-                                <div className="col-md-4 footer_right">
-                                    <ul>
+                                <div className="col-md-4 footer_right d-flex justify-content-center">
+                                    <ul style={{paddingLeft:"20px"}}>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Blog</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Help Center</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Contact Us</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Status</a></li>
                                     </ul>
                                 </div>
-                                <div className="col-md-4 footer_right">
-                                    <ul>
+                                <div className="col-md-4 footer_right d-flex justify-content-center">
+                                    <ul style={{paddingLeft:"20px"}}>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">About Us</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Terms of Service</a></li>
                                         <li className="mb-2"><a className="text-decoration-none" href="#">Security</a></li>

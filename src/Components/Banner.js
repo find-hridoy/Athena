@@ -3,7 +3,7 @@ import banner from "../Images/Illustration/banner.png";
 
 const Banner = () => {
   return (
-    <section className="mt-5 pt-3">
+    <section className="mt-5 pt-3 banner">
       <div className="container">
         <div className="row">
           <div className="col-md-5">

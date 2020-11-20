@@ -2,5 +2,6 @@
   background: url(../Images/bg-image/header.PNG);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 108vh;
+  height: 100%;
+  padding-bottom: 45px;
 }
